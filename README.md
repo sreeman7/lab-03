@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Sreeman Reddy Gokula
+- **CCID:** gokula
 
 ## References and Resources
 
