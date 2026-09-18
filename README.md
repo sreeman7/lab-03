@@ -8,7 +8,7 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-
+I used Chatgpt to help me understand how the Edit City function works.
 ## Verbal Collaboration
 
 | Student Name | CCID      |
